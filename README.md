@@ -6,14 +6,15 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 
 ## Checklist:
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+- [x] make sure the assignment checks pass
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository link on Canvas
 
 ## Self-Evaluation: 
-how many points out of 10 do you deserve on this assignment: 
+how many points out of 10 do you deserve on this assignment: 9/10 for late submittal
 
 ## Self-Reflection:
-
+This assignment took me longer than expected, I need to spend more time learning more about cypress as it took me the longest.
 
 ### How long it took me to finish this?
+about 3.5 hours
